@@ -27,4 +27,4 @@ class OrderItem extends DataExtension
     {
         return unserialize($this->owner->Placed_BuyableHash);
     }
-} 
+}
